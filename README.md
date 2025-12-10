@@ -1,2 +1,3 @@
-# tax-invoice
-Tax invoice for Sujal Industries
+# Read me
+Tax Invoice template for Sujal Industries. Create tax invoices and print.
+
